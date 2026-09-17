@@ -2,7 +2,7 @@
 # Programación Orientada a Objetos 2026-2S
 
 Universidad Nacional de Colombia
-Sede Medellín - Facultad de Ciencias
+Sede Medellín
 
 **Actividad:** Actividad 1: Individual  
 
